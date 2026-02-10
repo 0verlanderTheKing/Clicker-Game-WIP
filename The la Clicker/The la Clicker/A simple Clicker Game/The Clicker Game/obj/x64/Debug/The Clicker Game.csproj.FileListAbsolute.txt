@@ -1,0 +1,11 @@
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\bin\x64\Debug\The Clicker Game.exe.config
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\bin\x64\Debug\The Clicker Game.exe
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\bin\x64\Debug\The Clicker Game.pdb
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\obj\x64\Debug\The Clicker Game.csproj.AssemblyReference.cache
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\obj\x64\Debug\The_Clicker_Game.Simple_Clicker_Game.resources
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\obj\x64\Debug\The_Clicker_Game.Properties.Resources.resources
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\obj\x64\Debug\The Clicker Game.csproj.GenerateResource.cache
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\obj\x64\Debug\The Clicker Game.csproj.CoreCompileInputs.cache
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\obj\x64\Debug\The Clicker Game.exe
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\obj\x64\Debug\The Clicker Game.pdb
+C:\Users\25jwh\source\repos\The la Clicker\A simple Clicker Game\The Clicker Game\obj\x64\Debug\The Clicker Game.exe.config
